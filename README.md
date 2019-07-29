@@ -8,5 +8,5 @@ matplotlib
 sklearn
 
 # Source
-I learn all this from  below youtube channel 
+I learn all this from given youtube channel 
 https://www.youtube.com/user/ProgrammingKnowledge
