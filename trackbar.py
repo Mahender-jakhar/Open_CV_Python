@@ -1,6 +1,5 @@
 import numpy as np
 import cv2
-
 def nothing(x):
     print(x)
 
@@ -30,7 +29,7 @@ while(1):
         img[:] = [b,g,r]
 
     cv2.imshow('image',img)
-
+#code mera nhi hai 
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
